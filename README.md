@@ -1,7 +1,7 @@
 # Cannibals-Missionaries-AI-Calculator
 
 - **Description:**
-This program finds the best solution with any given valid input for the famous boat puzzle Cannibals & Missionaries using the A* algorithm.
+This program finds the best solution (if there is any) for the famous boat puzzle Cannibals & Missionaries using the A* algorithm.
 
 - **Input:**
 The program asks for 3 paramaters, the number of people on each team (Not the total!), the boat capacity (How many people can get into the boat) and the maximum moves in order to stop the A* algorithm to keep searching for a path.
