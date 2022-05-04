@@ -11,8 +11,7 @@ The program returns the total moves needed for the best solution, a list with th
 
 - **Program Architecture:**
 I used 3 classes for this program the Main, State and AStar class.
-The State class contains what it needs to describe every state of the game also you can find there my heuristic functions and how i have implemented the restrictions of the puzzle. 
-In the AStar you can find the AStar implementation for the program.
+The State class contains what it needs to describe every state of the game also you can find there the heuristic functions and how the restrictions of the puzzle. 
 
 - **The Problem:**
 https://www.wikiwand.com/en/Missionaries_and_cannibals_problem
